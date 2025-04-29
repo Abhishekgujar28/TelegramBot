@@ -1,2 +1,2 @@
-python-telegram-bot==3.11.9
+python-telegram-bot==3.12.2
 nest_asyncio
